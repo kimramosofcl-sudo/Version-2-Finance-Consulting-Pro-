@@ -4,7 +4,7 @@ import { Textarea } from "./ui/textarea";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "./ui/select";
 import { Mail, Phone, MapPin, Clock } from "lucide-react";
 import { useState, useEffect, useRef } from "react";
-import { toast } from "sonner@2.0.3";
+import { toast } from "sonner";
 
 const contactInfo = [
   {

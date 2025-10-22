@@ -2,7 +2,7 @@ import { Linkedin, Twitter, Facebook, Mail } from "lucide-react";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { useState } from "react";
-import { toast } from "sonner@2.0.3";
+import { toast } from "sonner";
 import { Logo } from "./Logo";
 
 export function Footer() {
